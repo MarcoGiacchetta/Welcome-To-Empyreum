@@ -1,0 +1,25 @@
+
+.imagenesTexto {
+    display: flex;
+    margin: 3%;
+    justify-content: center;
+    align-items:flex-start;
+    
+    div p {
+        display: inline-block;
+        margin: 1% 3% 0% 3%;
+    }
+
+    div h2 {
+        display: inline-block;
+        margin: 1% 3% 0% 3%;
+    }
+}
+
+.carrimg {
+    width: 50%;
+    
+    div div img {
+        border-radius: 2%;
+    }
+}

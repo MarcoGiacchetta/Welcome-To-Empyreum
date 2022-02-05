@@ -1,0 +1,45 @@
+.body {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif; }
+
+.header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 4; }
+
+.headerImage {
+  width: 50%; }
+
+.topImage {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  background-image: url(../images/PRESS_KIT/KEY_ART/WTE_keyart_banner-min.png);
+  background-size: cover;
+  background-repeat: no-repeat; }
+  .topImage img {
+    width: 40%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 1px;
+    z-index: 5; }
+
+/*Top Images*/
+.imagenesTexto {
+  display: flex;
+  margin: 3%;
+  justify-content: center;
+  align-items: flex-start; }
+  .imagenesTexto div p {
+    display: inline-block;
+    margin: 1% 3% 0% 3%; }
+  .imagenesTexto div h2 {
+    display: inline-block;
+    margin: 1% 3% 0% 3%; }
+
+.carrimg {
+  width: 50%; }
+  .carrimg div div img {
+    border-radius: 2%; }
