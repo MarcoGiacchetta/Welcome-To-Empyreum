@@ -23,3 +23,30 @@
         border-radius: 2%;
     }
 }
+
+.personajes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+
+    div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        img{
+            width: 30%;
+        }
+
+        h3 {
+            display: inline-block;
+            font-size: medium;
+        }
+
+        p {
+            display: inline-block;
+        }
+    } 
+}

@@ -43,3 +43,21 @@
   width: 50%; }
   .carrimg div div img {
     border-radius: 2%; }
+
+.personajes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%; }
+  .personajes div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; }
+    .personajes div img {
+      width: 30%; }
+    .personajes div h3 {
+      display: inline-block;
+      font-size: medium; }
+    .personajes div p {
+      display: inline-block; }
