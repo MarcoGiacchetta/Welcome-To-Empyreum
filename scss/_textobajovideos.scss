@@ -1,0 +1,32 @@
+
+.textoSinCarrusel {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+
+    img {
+        width: 10%;
+    }
+
+    div {
+        width: 50%;
+    }
+}
+
+.steam {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.logosVinculos {
+    display: flex;
+    justify-content: center;
+
+    img {
+        display: inline-block;
+        width: 5%;
+        margin: 5%;
+    }
+}

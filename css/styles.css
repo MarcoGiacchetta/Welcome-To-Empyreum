@@ -27,6 +27,34 @@
     z-index: 5; }
 
 /*Top Images*/
+.videos {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 5%; }
+
+.textoSinCarrusel {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 5%; }
+  .textoSinCarrusel img {
+    width: 10%; }
+  .textoSinCarrusel div {
+    width: 50%; }
+
+.steam {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.logosVinculos {
+  display: flex;
+  justify-content: center; }
+  .logosVinculos img {
+    display: inline-block;
+    width: 5%;
+    margin: 5%; }
+
 .imagenesTexto {
   display: flex;
   margin: 3%;
