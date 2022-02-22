@@ -1,7 +1,8 @@
 .body {
-  font-family: 'Montserrat', sans-serif;
-  font-family: 'Oswald', sans-serif;
-  font-family: 'Source Sans Pro', sans-serif; }
+  font-family: "Montserrat", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
+  background-color: #ffca32; }
 
 .header {
   position: -webkit-sticky;
